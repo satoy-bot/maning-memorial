@@ -8,7 +8,7 @@ Source: Satoy upload in Discord `#maning-memorial` on 2026-05-17. The same batch
 | `02-maning-with-schoolboy.jpg` | Maning with a young boy in school uniform. | Family gallery | Identify child, school/event, approximate year. |
 | `03-wedding-car-couple.jpg` | Bride and groom seated in wedding car. | Family / wedding gallery | Confirm date/location. |
 | `04-wedding-home-couple.jpg` | Bride and groom indoors during wedding celebration. | Family / wedding gallery | Confirm setting and date. |
-| `05-young-maning-portrait-duplicate-hero.jpg` | Young black-and-white portrait of Maning. | Already used as live hero image (`assets/maning-young-portrait.jpg`) | Duplicate retained for intake trail. |
+| `05-young-maning-portrait-duplicate-hero.jpg` | Young black-and-white portrait of Maning. | Already used as live hero image (`assets/maning-young-portrait.jpg`) | Removed from intake after Satoy approved duplicate cleanup on 2026-05-17. |
 | `06-maning-graduation-attire.jpg` | Maning in graduation attire. | Education / USC / early-life section | Confirm school, degree, year. |
 | `07-maning-formal-graduation-portrait.jpg` | Formal graduation portrait of Maning. | Education / early-life section; possible alternate hero | Confirm school, studio, year. |
 | `08-family-at-home.jpg` | Maning with spouse and children at home. | Family gallery | Identify family members and location/year. |
@@ -17,4 +17,4 @@ Source: Satoy upload in Discord `#maning-memorial` on 2026-05-17. The same batch
 
 Notes:
 - Do not publish unverified names/captions beyond “Maning,” “bride/spouse,” or “family” until Satoy/family confirms.
-- `05-young-maning-portrait-duplicate-hero.jpg` is byte-identical to the current live hero file.
+- `05-young-maning-portrait-duplicate-hero.jpg` was byte-identical to the current live hero file and was removed after Satoy approved duplicate cleanup on 2026-05-17.
