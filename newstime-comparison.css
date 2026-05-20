@@ -349,6 +349,12 @@ section.article.two-col .body p:first-child::first-letter {
 .clippings li .clip-title {
   font-style: italic;
 }
+.clippings li a.clip-title {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
 .clippings li .clip-meta {
   font-family: var(--type);
   font-size: 11px;
